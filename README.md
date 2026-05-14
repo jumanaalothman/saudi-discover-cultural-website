@@ -65,4 +65,4 @@ The admin side includes protected pages that allow the admin to manage website c
 
 ## Notes
 
-This project was developed as part of the Internet Technologies course. The website is written in Arabic and focuses on presenting cultural and regional information about Saudi Arabia.
+This project is an Arabic dynamic website that presents cultural, historical, and regional information about Saudi Arabia.
