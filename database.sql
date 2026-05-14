@@ -4,8 +4,7 @@ CREATE TABLE admins (
     password VARCHAR(255) NOT NULL
 );
 
--- كلمة المرور: admin123
--- ملاحظة: تم استخدام password_hash في PHP، وهذا الهاش صالح لكلمة admin123
+
 INSERT INTO admins (username, password) VALUES
 ('admin', '$2y$10$CwTycUXWue0Thq9StjUM0uJ8S2aARj96qDtuufXiQHsEZ8lKxWFKy');
 
